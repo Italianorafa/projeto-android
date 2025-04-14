@@ -141,10 +141,11 @@ article>h2{
     padding: 4px;
 }
 
-article>img#bugdroid{
+article>img{
     max-width: 350px;
     display: block;
     margin: auto;
+    position: relative;
 }
 
 div.video{
